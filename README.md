@@ -13,4 +13,3 @@ I build Fullstack + ML Product experiences.
 - 📫 How to reach me: Email at my brsanjita@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I can lift 200lbs.
--->
