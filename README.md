@@ -1,6 +1,6 @@
 # Hi, I’m Sanjita 👋
 
-I build ML + Fullstack Product experiences.
+I build Fullstack + ML Product experiences.
 
 **Try my AI portfolio assistant, Ree → [Ask Ree](https://personal-assistant-two-woad.vercel.app/?utm_source=github&utm_medium=profile_readme&utm_campaign=portfolio_bot)**
 
