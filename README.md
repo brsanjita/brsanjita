@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Sanjita 👋
 
-<!--
-**brsanjita/brsanjita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build ML + Fullstack Product experiences.
 
-Here are some ideas to get you started:
+**Try my AI portfolio assistant → [Ask Sanjita](https://personal-assistant-two-woad.vercel.app/?utm_source=github&utm_medium=profile_readme&utm_campaign=portfolio_bot)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Projects: SER (speech emotion recognition), Coug Wallet, Tribe Docs
+- Stack: Next.js, TypeScript, RAG, Cloudflare Workers AI
+
+[![Open](https://img.shields.io/badge/Ask%20Sanjita-Open%20Assistant-4f46e5)](https://personal-assistant-two-woad.vercel.app/?utm_source=github&utm_medium=badge&utm_campaign=portfolio_bot)
+
+
+- 🔭 I’m currently working on improving my AI skills.
+- 👯 I’m looking to collaborate on Fullstack/AI projects.
+- 💬 Ask me about my secret brownie recipe.
+- 📫 How to reach me: Email at my brsanjita@gmail.com
+- 😄 Pronouns: She/Her/Hers
+- ⚡ Fun fact: I can lift 200lbs.
 -->
